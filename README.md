@@ -1,1 +1,1 @@
-readme now
+second repository doing shell basics
