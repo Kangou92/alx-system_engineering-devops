@@ -1,1 +1,1 @@
-second repository doing shell basics
+learning on shell basics
