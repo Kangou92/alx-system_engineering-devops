@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 10 5-firstlines
+HEAD -n 10 5-firstlines
